@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-25T16:31:48+08:00</updated><entry><title>W6</title><link href="./2022-Spring-CD.html.html" rel="alternate"></link><published>2022-04-13T10:24:00+08:00</published><updated>2022-04-24T17:11:42+08:00</updated><author><name>yen</name></author><id>tag:None,2022-04-13:./2022-Spring-CD.html.html</id><summary type="html">&lt;p&gt;介紹這週Leo的使用方式&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-25T16:40:58+08:00</updated><entry><title>W6</title><link href="./2022-Spring-CD.html.html" rel="alternate"></link><published>2022-04-13T10:24:00+08:00</published><updated>2022-04-24T17:11:42+08:00</updated><author><name>yen</name></author><id>tag:None,2022-04-13:./2022-Spring-CD.html.html</id><summary type="html">&lt;p&gt;介紹這週Leo的使用方式&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;介紹這週Leo的使用方式&lt;/p&gt;
 
 
 &lt;h2&gt;Leo製作&lt;/h2&gt;
 &lt;p&gt;在&lt;/p&gt;
 &lt;h2&gt;協同主題&lt;/h2&gt;
-&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W6</title><link href="./W6.html.html" rel="alternate"></link><published>2022-04-13T10:24:00+08:00</published><updated>2022-04-25T16:31:48+08:00</updated><author><name>40923103</name></author><id>tag:None,2022-04-13:./W6.html.html</id><summary type="html">&lt;p&gt;介紹這週Leo的使用方式&lt;/p&gt;
+&lt;p&gt;Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W6</title><link href="./W6.html.html" rel="alternate"></link><published>2022-04-13T10:24:00+08:00</published><updated>2022-04-25T16:40:58+08:00</updated><author><name>40923103</name></author><id>tag:None,2022-04-13:./W6.html.html</id><summary type="html">&lt;p&gt;介紹這週Leo的使用方式&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;介紹這週Leo的使用方式&lt;/p&gt;
 
 
 &lt;h2&gt;Leo製作&lt;/h2&gt;
-&lt;p&gt;在小黑窗裡出入Leo
+&lt;p&gt;在小黑窗裡輸入Leo
 左上角點選file-open outline
 開啟資料裡的cd2022-config-pelican
 開始更改學號、標題、網站網址和github帳號
@@ -19,7 +19,7 @@
 之後在左上角的地方點local-blog右鍵按goto-script
 右邊區域會出現一串英文字
 pelican markdown -o blog -s local_publishconf.py&lt;/p&gt;
-&lt;h2&gt;推blog內容&lt;/h2&gt;
+&lt;p&gt;推blog內容&lt;/p&gt;
 &lt;p&gt;在小黑窗裡輸入
 cd tmp
 cd cd2022
