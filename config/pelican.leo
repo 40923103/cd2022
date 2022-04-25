@@ -56,7 +56,7 @@
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1"><vh>2022</vh>
 <v t="leo.20180423103639.1"><vh>2022 Fall CP 課程</vh>
-<v t="leo.20180423103656.1"><vh>@edit 20200813.md</vh></v>
+<v t="leo.20180423103656.1"><vh>@edit W6.md</vh></v>
 <v t="leo.20220413092610.1"><vh>@edit W7.md</vh></v>
 </v>
 </v>
