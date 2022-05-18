@@ -1,12 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-04-27T10:24:00+08:00</updated><entry><title>W8</title><link href="./w8.html.html" rel="alternate"></link><published>2022-04-27T10:24:00+08:00</published><updated>2022-04-27T01:38:58+08:00</updated><author><name>40923103</name></author><id>tag:None,2022-04-27:./w8.html.html</id><summary type="html">&lt;p&gt;紀錄過往八週上課心得&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2022-05-04T11:33:44+08:00</updated><entry><title>W10</title><link href="./w10_40923103.html.html" rel="alternate"></link><published>2022-05-04T10:24:00+08:00</published><updated>2022-05-04T11:33:44+08:00</updated><author><name>40923103</name></author><id>tag:None,2022-05-04:./w10_40923103.html.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;網站網址 ：https://40923103.github.io/cd2022/content/index.html &lt;/p&gt;
+&lt;h2&gt;Wink影片註解&lt;/h2&gt;
+&lt;p&gt;w10_block_ui影片&lt;/p&gt;
+&lt;p&gt;&lt;link rel="stylesheet" type="text/css" href="./../cmsimde/static/winkPlayer.css"&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;script type="text/javascript" src="./../cmsimde/static/winkPlayer.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+&lt;/script&gt;
+&lt;/p&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/0504影片.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;w10_nx_integ 影片
+&lt;link rel="stylesheet" type="text/css" href="./../cmsimde/static/winkPlayer.css"&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;script type="text/javascript" src="./../cmsimde/static/winkPlayer.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;
+&lt;source src="/downloads/nx_integ影片.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;ssh影片
+&lt;link rel="stylesheet" type="text/css" href="./../cmsimde/static/winkPlayer.css"&gt;&lt;/p&gt;&lt;/p&gt;
+&lt;script type="text/javascript" src="./../cmsimde/static/winkPlayer.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="960"height="540"class="winkVideoClass" data-varname="winkVideoData" data-dirname="/static"&gt;&lt;source src="/downloads/ssh.mp4" type="video/mp4"&gt;
+    &lt;/video&gt;
+    &lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+    &lt;div class="winkVideoControlBarClass"&gt;
+      &lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt;
+      &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+      &lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+      &lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+      &lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+      &lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+      &lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+  &lt;/div&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W8</title><link href="./w8_40923103.html.html" rel="alternate"></link><published>2022-04-27T10:24:00+08:00</published><updated>2022-05-04T08:35:52+08:00</updated><author><name>40923103</name></author><id>tag:None,2022-04-27:./w8_40923103.html.html</id><summary type="html">&lt;p&gt;紀錄過往八週上課心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;紀錄過往八週上課心得&lt;/p&gt;
 
 
 &lt;p&gt;網站網址 ：https://40923103.github.io/cd2022/content/index.html &lt;/p&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
 &lt;p&gt;把組好的物體放到Coppeliasim裡模擬作動一直以來都是我需要學習的部分，正因為我不太會操作，所以才要比別人更努力去學，進而了解程式的原理。&lt;/p&gt;
-&lt;p&gt;那在組合的過程因為物件太過繁雜，所以有些許困難，到後來還是參考了老師的組合圖去操作。&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W6</title><link href="./w6_40923103.html" rel="alternate"></link><published>2022-04-13T10:24:00+08:00</published><updated>2022-04-27T01:25:52+08:00</updated><author><name>40923103</name></author><id>tag:None,2022-04-13:./w6_40923103.html</id><summary type="html">&lt;p&gt;介紹這週Leo的使用方式&lt;/p&gt;
+&lt;p&gt;那在組合的過程因為物件太過繁雜，所以有些許困難，到後來還是參考了老師的組合圖去操作。&lt;/p&gt;
+&lt;p&gt;onshape組合圖：https://cad.onshape.com/documents/40b19c6aa11669a1ac25b789/w/4dc1e5db16366400f9219c27/e/d8695880a885f568d0fb80b0?renderMode=0&amp;amp;uiState=6271ca0413691c271a9bd77d&lt;/p&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W6</title><link href="./w6_40923103.html" rel="alternate"></link><published>2022-04-13T10:24:00+08:00</published><updated>2022-04-27T01:25:52+08:00</updated><author><name>40923103</name></author><id>tag:None,2022-04-13:./w6_40923103.html</id><summary type="html">&lt;p&gt;介紹這週Leo的使用方式&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;介紹這週Leo的使用方式&lt;/p&gt;
 
 
