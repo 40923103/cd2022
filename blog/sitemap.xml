@@ -4,92 +4,92 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://40923103.github.io/cd2022/</loc>
-<lastmod>2022-05-25T17:00:19-00:00</lastmod>
+<loc>./</loc>
+<lastmod>2022-05-25T17:20:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40923103.github.io/cd2022/archives.html</loc>
-<lastmod>2022-05-25T17:00:19-00:00</lastmod>
+<loc>./archives.html</loc>
+<lastmod>2022-05-25T17:20:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40923103.github.io/cd2022/tags.html</loc>
-<lastmod>2022-05-25T17:00:19-00:00</lastmod>
+<loc>./tags.html</loc>
+<lastmod>2022-05-25T17:20:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40923103.github.io/cd2022/categories.html</loc>
-<lastmod>2022-05-25T17:00:19-00:00</lastmod>
+<loc>./categories.html</loc>
+<lastmod>2022-05-25T17:20:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40923103.github.io/cd2022/pages/about/</loc>
+<loc>./pages/about/</loc>
 <lastmod>2022-05-24T00:36:14+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40923103.github.io/cd2022/w10_40923103.html.html</loc>
+<loc>./w11_40923103.html.html</loc>
+<lastmod>2022-05-25T17:20:10+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./w10_40923103.html.html</loc>
 <lastmod>2022-05-25T16:38:28+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40923103.github.io/cd2022/w8_40923103.html.html</loc>
+<loc>./w8_40923103.html.html</loc>
 <lastmod>2022-05-24T00:36:14+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40923103.github.io/cd2022/w6_40923103.html</loc>
+<loc>./w6_40923103.html</loc>
 <lastmod>2022-05-24T00:36:14+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40923103.github.io/cd2022/w11_40923103.html.html</loc>
-<lastmod>2022-05-25T16:52:12+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://40923103.github.io/cd2022/w7_summary.html.html</loc>
+<loc>./w7_summary.html.html</loc>
 <lastmod>2022-05-24T00:36:14+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40923103.github.io/cd2022/category/misc.html</loc>
-<lastmod>2022-05-25T16:52:12+08:06</lastmod>
+<loc>./category/misc.html</loc>
+<lastmod>2022-05-25T17:20:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40923103.github.io/cd2022/tag/2022springcd.html</loc>
-<lastmod>2022-05-25T16:52:12+08:06</lastmod>
+<loc>./tag/2022springcd.html</loc>
+<lastmod>2022-05-25T17:20:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://40923103.github.io/cd2022/author/40923103.html</loc>
-<lastmod>2022-05-25T16:52:12+08:06</lastmod>
+<loc>./author/40923103.html</loc>
+<lastmod>2022-05-25T17:20:10+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
