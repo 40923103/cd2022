@@ -50,7 +50,7 @@ frameStops: {
 &lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
-&lt;/div&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W10</title><link href="./w10_40923103.html.html" rel="alternate"></link><published>2022-05-04T10:24:00+08:00</published><updated>2022-05-25T16:38:28+08:00</updated><author><name>40923103</name></author><id>tag:None,2022-05-04:./w10_40923103.html.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;/div&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W10</title><link href="./w10_40923103.html.html" rel="alternate"></link><published>2022-05-04T10:24:00+08:00</published><updated>2022-05-26T01:11:56+08:00</updated><author><name>40923103</name></author><id>tag:None,2022-05-04:./w10_40923103.html.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;網站網址 ：https://40923103.github.io/cd2022/content/index.html &lt;/p&gt;
 &lt;h2&gt;Wink影片註解&lt;/h2&gt;
@@ -107,7 +107,7 @@ frameStops: {
 &lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;ssh影片
+&lt;p&gt;w10_ssh_影片
 &lt;link rel="stylesheet" type="text/css" href="./../cmsimde/static/winkPlayer.css"&gt;&lt;/p&gt;&lt;/p&gt;
 &lt;script type="text/javascript" src="./../cmsimde/static/winkPlayer.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -120,20 +120,27 @@ frameStops: {
 },
 };
 &lt;/script&gt;
-&lt;div class="winkVideoContainerClass"&gt;&lt;video width="960"height="540"class="winkVideoClass" data-varname="winkVideoData" data-dirname="/static"&gt;&lt;source src="https://40923103.github.io/cd2022/content/w10_ssh.html"video/mp4"&gt;
-    &lt;/video&gt;
-    &lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
-    &lt;div class="winkVideoControlBarClass"&gt;
-      &lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt;
-      &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
-      &lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
-      &lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
-      &lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
-      &lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
-      &lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
-  &lt;/div&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W8</title><link href="./w8_40923103.html.html" rel="alternate"></link><published>2022-04-27T10:24:00+08:00</published><updated>2022-05-24T00:36:14+08:00</updated><author><name>40923103</name></author><id>tag:None,2022-04-27:./w8_40923103.html.html</id><summary type="html">&lt;p&gt;紀錄過往八週上課心得&lt;/p&gt;
+&lt;script&gt;
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+&lt;/script&gt;
+&lt;div class="winkVideoContainerClass"&gt;&lt;video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;&lt;source src="https://40923103.github.io/cd2022/downloads/ssh.mp4" type="video/mp4" /&gt;&lt;/video&gt;
+&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;
+&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;
+&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;
+&lt;/div&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>W8</title><link href="./w8_40923103.html.html" rel="alternate"></link><published>2022-04-27T10:24:00+08:00</published><updated>2022-05-24T00:36:14+08:00</updated><author><name>40923103</name></author><id>tag:None,2022-04-27:./w8_40923103.html.html</id><summary type="html">&lt;p&gt;紀錄過往八週上課心得&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;紀錄過往八週上課心得&lt;/p&gt;
 
 
