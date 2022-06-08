@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2022-06-04T18:20:05-00:00</lastmod>
+<lastmod>2022-06-09T04:28:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2022-06-04T18:20:05-00:00</lastmod>
+<lastmod>2022-06-09T04:28:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2022-06-04T18:20:05-00:00</lastmod>
+<lastmod>2022-06-09T04:28:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2022-06-04T18:20:05-00:00</lastmod>
+<lastmod>2022-06-09T04:28:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./pages/about/</loc>
 <lastmod>2022-05-24T00:36:14+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./w16_40923103.html.html</loc>
+<lastmod>2022-06-09T04:28:14+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -47,7 +54,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./w14_40923103.html.html</loc>
-<lastmod>2022-06-04T18:11:08+08:00</lastmod>
+<lastmod>2022-06-04T18:27:42+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -96,21 +103,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/misc.html</loc>
-<lastmod>2022-06-04T18:19:46+08:06</lastmod>
+<lastmod>2022-06-09T10:24:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/2022springcd.html</loc>
-<lastmod>2022-06-04T18:19:46+08:06</lastmod>
+<lastmod>2022-06-09T10:24:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/40923103.html</loc>
-<lastmod>2022-06-04T18:19:46+08:06</lastmod>
+<lastmod>2022-06-09T10:24:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
